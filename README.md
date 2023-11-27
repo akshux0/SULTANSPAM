@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="SULTANSPAM Logo">
+  <img src="https://te.legra.ph/file/22438f69e7a4d8ad7bbe0.jpg" alt="SULTANSPAM Logo">
 </p>
 <h6 align="center">
   <b>• SULTANSPAM •</b>
